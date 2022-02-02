@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LeuThrAsp APHL|CDC Bioinformatics fellow at DCLS Virginia.
 - 👀 I’m interested in ... bioinformatics tools!
 - 🌱 I’m currently learning ... nextflow, docker, other things that help with bioinfo workflows!
-- 💞️ I’m looking to collaborate on ... whatever I can help with :)
+- 💞️ I’m looking to collaborate on ... C. auris analysis workflows :)
 - 📫 How to reach me ... thoai.dotrang@dgs.virginia.gov
 
 <!---
